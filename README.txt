@@ -1,0 +1,1 @@
+https://blog.katuscak.cz/symfony-pozor-na-sluzby-zavisle-na-entitymanageru/
